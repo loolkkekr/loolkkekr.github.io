@@ -1,0 +1,424 @@
+body:before
+{
+   content: "";
+   position: fixed;
+   left: 0;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   z-index: -1;
+   background-image: linear-gradient(to top, #000000 0%, #4B0082 100%);
+}
+body
+{
+   background-color: #000000;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+input:focus, textarea:focus, select:focus
+{
+   outline: none;
+}
+#wb_Image2
+{
+   vertical-align: top;
+}
+#Image2
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
+#Layer1
+{
+   background-color: #191919;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer2
+{
+   background-color: #1F88CB;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer3
+{
+   background-clip: padding-box;
+   background-color: #1F88CB;
+   background-image: none;
+   border-radius: 0px;
+}
+#Button1
+{
+   box-sizing: border-box;
+   line-height: 22px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #FFFFFF;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: url('images/windows10.jpg');
+   background-repeat: repeat;
+   background-position: left bottom;
+   background-attachment: fixed;
+   background-position: 50% 0;
+   background-size: cover;
+   color: #FFFFFF;
+   box-shadow: 0px 0px 1px #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 27px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Layer6
+{
+   background-color: #05498F;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Image3
+{
+   vertical-align: top;
+}
+#Image3
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#Layer8
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer9
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer10
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer11
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer5
+{
+   background-color: #111111;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#Layer12
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer13
+{
+   background-color: #05498F;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text6 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text6 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text7 div
+{
+   text-align: left;
+}
+#wb_Image4
+{
+   vertical-align: top;
+}
+#Image4
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image5
+{
+   vertical-align: top;
+}
+#Image5
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text5 div
+{
+   text-align: left;
+}
+#Layer7
+{
+   background-color: #05498F;
+   background-image: none;
+   border-radius: 0px;
+   -webkit-animation: animate-fade-in 215ms linear 7000ms 1 reverse both;
+   animation: animate-fade-in 215ms linear 7000ms 1 reverse both;
+}
+#Layer14
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+   -webkit-animation: fold 2000ms ease 3500ms 1 normal both;
+   animation: fold 2000ms ease 3500ms 1 normal both;
+}
+#Layer4
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer15
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border-radius: 0px;
+   -webkit-animation: animate-fade-in-down 800ms ease 1000ms 1 normal both;
+   animation: animate-fade-in-down 800ms ease 1000ms 1 normal both;
+}
+#wb_Text8 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text8 div
+{
+   text-align: left;
+}
+#Button2
+{
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#wb_Text9 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text9 div
+{
+   text-align: left;
+}
+#Layer16
+{
+   background-color: #000000;
+   background-image: none;
+   border-radius: 0px;
+}
+#Layer17
+{
+   background-color: #FBFBFB;
+   background-image: none;
+   border-radius: 0px;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text10 div
+{
+   text-align: left;
+}
+#wb_Text11 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text11 div
+{
+   text-align: left;
+}
